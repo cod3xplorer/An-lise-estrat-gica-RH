@@ -1,4 +1,8 @@
 # Analise-estrategica-RH
+
+## 🔗 Acesse o projeto:
+- 📥 Download PBIX:"G:\Meu Drive\Portfólio_linkdin\Análise estratégica de RH.pbix"
+
 📌 Visão Geral
 
 Projeto desenvolvido em Power BI com foco em análise de RH, reunindo indicadores estratégicos para apoiar a tomada de decisão baseada em dados.
